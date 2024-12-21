@@ -54,11 +54,9 @@
  | **Applications & Software** | **SNAP, SolidWorks, LaTeX, AutoCAD, Gnuplot, Microsoft Office (Word, Excel, Outlook, Visual Basic)**|
 
 ## `EDUCATION`
-- [x] Google Advanced Data Analytics Professional Certificate (March -August 2024)
-- [x] Google Business Intelligence Professional Certificate (April – August 2024)
-- [x] Ph.D. in Physics, University of Alberta, Canada (2009-2015)
-- [x] Post Graduate Diploma in Earth System Physics, The Abdus Salam ICTP, Italy (2007-2008)
-- [x] B.Sc. in Physics, Shah Jalal University of Science & Technology, Bangladesh (2001-2006)
+- [x] Microsoft PowerBI and Data Analyst Certificate (October 2024)
+- [x] Business Intelligence Professional Certificate (November 2023 – August 2024)
+- [x] Masters in Economics, University of Punjab, Pakistan (2004-2010)
 
 ## `CERTIFICATES`
 - [ ] [Microsoft Certified Power BI Data Analyst (2024)](https://learn.microsoft.com/en-us/users/rahilanaeemkouser-2451/transcript?tab=tab-other)
