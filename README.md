@@ -65,6 +65,6 @@
 > In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 ### `CONTACTS`
-- [LinkedIn](https://www.linkedin.com/in/rn-kouser-63a8812/)
+- [LinkedIn](https://www.linkedin.com/in/rn-kouser-63a881249/)
 - Email: rahila.naeem2@gmail.com
 - Address: Vaudreuil-Dorion, Quebec
