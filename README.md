@@ -31,7 +31,7 @@
 ## `PROJECT EXPERIENCE`
 #### [Building Retail Analytics Solutions]
 - [ ]	Led the development and testing of ETL processes to move data from heterogeneous systems (MS SQL, flat files) to enterprise data warehouses.
-- [ ]	Created data visualization dashboards using <b>[Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWExNWE3MjAtZWUzYS00NmI5LTg3YWMtOGYzODRlMjIxYWQ2IiwidCI6Ijc3YmQ5NDBiLWRkNDUtNDQ4ZC04MjhiLWI2NmY4MmMyYTE4YiJ9) and [Tableau](https://public.tableau.com/app/profile/rahila.naeem.kouser/vizzes)</b>, resulting in a 30% reduction in operational costs.
+- [ ]	Created data visualization dashboards using <b>[Power BI](https://github.com/rnkouser/PowerBI-Projects) and [Tableau](https://public.tableau.com/app/profile/rahila.naeem.kouser/vizzes)</b>, resulting in a 30% reduction in operational costs.
 - [ ]	Ensured compliance with internal data standards and external audit requirements, improving the accuracy and reliability of reports.
 - [ ] **Tools Used**: SSMS, SSIS, SSAS, Python, SAS, Google BigQuery, Power BI
 
