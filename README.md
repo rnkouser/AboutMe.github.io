@@ -60,6 +60,7 @@
 
 ## `CERTIFICATES`
 - [ ] [Microsoft Certified Power BI Data Analyst (2024)](https://learn.microsoft.com/en-us/users/rahilanaeemkouser-2451/transcript?tab=tab-other)
+- [ ] [Azure DevOps Boards (2024)](https://www.coursera.org/account/accomplishments/certificate/8GWPCJ4STWJY)
 
 ### `HOBBY`
 > In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
