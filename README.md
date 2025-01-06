@@ -1,5 +1,5 @@
 ## `PROFESSIONAL SUMMARY`
-> Certified Data Professional with over 5 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, Tableau, SSMS, SSIS, SSAS, SSRS, optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies ( Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Physics), with a strong foundation in data analysis and technical problem-solving.
+> Certified Data Professional with over 5 years of experience in data management, data modeling, and business intelligence. Highly skilled in SQL, Python, Power BI, Tableau, SSMS, SSIS, SSAS, SSRS, optimizing and developing scalable data infrastructures. Experienced in modernizing legacy systems and enhancing data models, with proficiency in cloud technologies ( Microsoft Azure). Proven track record in managing stakeholder communications, ensuring data accuracy, and delivering successful projects in fast-paced, high-pressure environments. Holds a postgraduate degree in an analytical field (Economics), with a strong foundation in data analysis and technical problem-solving.
 
 ## `PROFESSIONAL EXPERIENCE`
  #### Business Analyst and Visualization Specialist, Effective Technologies Inc., Remote (May 2023 - Present)
@@ -61,7 +61,11 @@
 ## `CERTIFICATES`
 - [ ] [Microsoft Certified Power BI Data Analyst (2024)](https://learn.microsoft.com/en-us/users/rahilanaeemkouser-2451/transcript?tab=tab-other)
 - [ ] [Azure DevOps Boards (2024)](https://www.coursera.org/account/accomplishments/certificate/8GWPCJ4STWJY)
-
+- [ ] [Google Business Intelligence (2025)](https://www.coursera.org/account/accomplishments/specialization/certificate/4WP9IGBZW9F3)
+- [ ] [Foundations of Data Science (2025)](https://www.coursera.org/account/accomplishments/certificate/G0T30K1F8TTH)
+- [ ] [Dashboards and Reporting (2025)](https://www.coursera.org/account/accomplishments/certificate/TCX8WS1QNB56)
+- [ ] [Data Models and Pipelines (2025)](https://www.coursera.org/account/accomplishments/certificate/8SFCMCGQZ0ZH)
+- [ ] [Foundations of Business Intelligence (2025)](https://www.coursera.org/account/accomplishments/certificate/X73PL2JNDZ16)
 ### `HOBBY`
 > In my free time, I enjoy exploring new data analysis tools and techniques and am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
