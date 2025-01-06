@@ -51,7 +51,6 @@
  | **Programming & Development**| **SQL, Python, VBA, DAX, MDX, Power Query**|
  | **Data Warehousing**| **Design & Dataflows, Snowflake**|
  | **Cloud Platforms**| **Microsoft Azure**|
- | **Applications & Software** | **SNAP, SolidWorks, LaTeX, AutoCAD, Gnuplot, Microsoft Office (Word, Excel, Outlook, Visual Basic)**|
 
 ## `EDUCATION`
 - [x] Microsoft PowerBI and Data Analyst Certificate (October 2024)
