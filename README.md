@@ -33,7 +33,7 @@
 - [ ]	Led the development and testing of ETL processes to move data from heterogeneous systems (MS SQL, flat files) to enterprise data warehouses.
 - [ ]	Created data visualization dashboards using <b>[Power BI](https://github.com/rnkouser/PowerBI-Projects) and [Tableau](https://public.tableau.com/app/profile/rahila.naeem.kouser/vizzes)</b>, resulting in a 30% reduction in operational costs.
 - [ ]	Ensured compliance with internal data standards and external audit requirements, improving the accuracy and reliability of reports.
-- [ ] **Tools Used**: SSMS, SSIS, SSAS, Python, SAS, Google BigQuery, Power BI
+- [ ] **Tools Used**: SSMS, SSIS, SSAS, Power BI
 
 #### [Data Warehouse Design of Human Resource Analysis
 - [ ]	Designed a human resources data warehouse to track over 200 employee performance, resulting in a 40% improvement in work ethics.
