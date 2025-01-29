@@ -48,7 +48,7 @@
  |Database Management| MS SQL Server, MySQL, BigQuery|
  |------------------------|------------------------------------------|
  |**BI & Data Model Tools**| **Power BI, Tableau, SSIS, SSAS, SSRS, SQL Server Management Studio, Tabular Model, Multi-Dimensional Model**|
- | **Programming & Development**| **SQL, Python, VBA, DAX, MDX, Power Query**|
+ | **Programming & Development**| **SQL, DAX, MDX, Power Query**|
  | **Data Warehousing**| **Design & Dataflows, Snowflake**|
  | **Cloud Platforms**| **Microsoft Azure**|
 
